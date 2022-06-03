@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @smallraven
+- 👋 Hi, I’m @wheady
 - 👀 I’m interested in coding and videogames
-- 🌱 I’m currently learning how to make a discord bot
+- 🌱 I’m currently learning how to make discord bots, web applications and minecraft-related software
 - 📫 How to reach me: walt#1234 on discord
-
-<!---
-smallraven/smallraven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
