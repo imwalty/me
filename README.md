@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wheady
-- 👀 I’m interested in coding and videogames
+- 👋 Hi, I’m @imWakasu
+- 👀 I’m interested in coding, videogames and sports
 - 🌱 I’m currently learning how to make discord bots, web applications and minecraft-related software
-- 📫 How to reach me: walt#1234 on discord
+- 📫 How to reach me: walt#8758 on discord
