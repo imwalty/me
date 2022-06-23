@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imWakasu
+- 👋 Hi, I’m @imWalt
 - 👀 I’m interested in coding, videogames and sports
 - 🌱 I’m currently learning how to make discord bots, web applications and minecraft-related software
 - 📫 How to reach me: walt#8758 on discord
